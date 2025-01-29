@@ -1,0 +1,5 @@
+{
+    "database_url": "postgres://user:pass@localhost:5432/dbname?sslmode=disable",
+    "rabbitmq_url": "amqp://username:password@localhost:5672/",
+    "server_url": ":8080"
+}
